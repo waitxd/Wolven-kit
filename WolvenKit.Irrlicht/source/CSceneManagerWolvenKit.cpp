@@ -256,7 +256,7 @@ ISceneNode* CSceneManagerWolvenKit::addSkyDomeSceneNode(video::ITexture* texture
 ITerrainSceneNodeWolvenKit* CSceneManagerWolvenKit::addTerrainSceneNodeWolvenKit(
     const io::path& heightMapFileName,
     ISceneNode* parent, s32 id,
-    s32 dimension, f32 maxHeight, f32 minHeight, f32 tileSize,
+    u32 dimension, f32 maxHeight, f32 minHeight, f32 tileSize,
     const core::vector3df& anchor)
 {
     if (!parent)
