@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net5.0</TargetFramework>
+		<TargetFramework>net5.0-windows</TargetFramework>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-		<Authors>WolvenKit</Authors>
+		<Authors>Hambalkó Bence, Moritz Baron</Authors>
 		<Company>WolvenKit</Company>
 		<Description>File formats (Cyberpunk 2077) for the WolvenKit Mod Editor.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>

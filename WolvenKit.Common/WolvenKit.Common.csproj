@@ -1,12 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net5.0</TargetFrameworks>
+    <TargetFrameworks>net5.0-windows</TargetFrameworks>
     <Platforms>AnyCPU;x64</Platforms>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>Core functionality for the WolvenKit Mod Editor.</Description>
-    <Authors>WolvenKit</Authors>
+    <Authors>Hambalkó Bence, Moritz Baron</Authors>
     <Company>WolvenKit</Company>
     <PackageProjectUrl>https://github.com/WolvenKit/Wolven-kit</PackageProjectUrl>
     <RepositoryUrl>https://github.com/WolvenKit/Wolven-kit</RepositoryUrl>
